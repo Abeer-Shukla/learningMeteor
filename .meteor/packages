@@ -26,10 +26,10 @@ spiderable
 fastclick
 raix:handlebar-helpers
 matb33:bootstrap-glyphicons
-msavin:jetsetter
 zimme:active-route
 gwendall:auth-client-callbacks
 aldeed:collection2
 aldeed:autoform
 accounts-ui
 accounts-password
+meteortoys:allthings
